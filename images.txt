@@ -1,1 +1,2 @@
 nginx:stable-alpine3.20-perl
+calico/node:v3.28.2
