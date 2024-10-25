@@ -4,3 +4,4 @@ calico/cni:v3.28.1
 calico/kube-controllers:v3.28.1
 kubernetesui/metrics-scraper:v1.0.8
 kubernetesui/dashboard:v2.7.0
+nginx
