@@ -3,4 +3,3 @@ calico/node:v3.28.2
 calico/cni:v3.28.1
 calico/kube-controllers:v3.28.1
 kubernetesui/dashboard:v2.7.0
-kubernetesui/dashboard:v2.7.0
