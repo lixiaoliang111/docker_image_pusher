@@ -5,4 +5,4 @@ calico/kube-controllers:v3.28.1
 kubernetesui/metrics-scraper:v1.0.8
 kubernetesui/dashboard:v2.7.0
 nginx
-busybox:v1.29.2
+busybox:1.29.2
