@@ -7,4 +7,5 @@ kubernetesui/dashboard:v2.7.0
 nginx
 busybox:1.29.2
 nginx:1.26.2
+redis
 
