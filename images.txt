@@ -10,3 +10,4 @@ nginx:1.26.2
 redis
 nicolaka/netshoot:latest
 
+
