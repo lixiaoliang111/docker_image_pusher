@@ -9,5 +9,6 @@ busybox:1.29.2
 nginx:1.26.2
 redis
 nicolaka/netshoot:latest
+traefik/whoami:v1.10
 
 
