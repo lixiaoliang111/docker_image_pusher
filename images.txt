@@ -1,14 +1,4 @@
-nginx:stable-alpine3.20-perl
-calico/node:v3.28.2
-calico/cni:v3.28.1
-calico/kube-controllers:v3.28.1
-kubernetesui/metrics-scraper:v1.0.8
-kubernetesui/dashboard:v2.7.0
-nginx
-busybox:1.29.2
-nginx:1.26.2
-redis
 nicolaka/netshoot:latest
 traefik/whoami:v1.10
-
+bitnami/metrics-server:0.7.2
 
