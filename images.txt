@@ -1,5 +1,2 @@
-nicolaka/netshoot:latest
-traefik/whoami:v1.10
-bitnami/metrics-server:0.7.2
-ghcr.io/stakater/reloader:v1.0.51
+k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
