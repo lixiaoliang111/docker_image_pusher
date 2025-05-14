@@ -1,5 +1,1 @@
-k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-elasticsearch:8.11.3
-redis
-mysql
-goinception
+hhyo/archery:v1.12.0
