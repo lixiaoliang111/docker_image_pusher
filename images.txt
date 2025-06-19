@@ -1,1 +1,1 @@
-hhyo/archery:master
+diouxx/glpi:latest
