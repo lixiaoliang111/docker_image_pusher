@@ -1,1 +1,1 @@
-calico/cni:v3.29.7-12
+calico/cni:v3.29.7
