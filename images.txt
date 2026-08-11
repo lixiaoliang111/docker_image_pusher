@@ -1,2 +1,1 @@
-calico/node:v3.29.7
-calico/kube-controllers:v3.29.7
+busybox:1.36.1
